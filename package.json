@@ -1,7 +1,7 @@
 {
-  "name": "st4rzbot",
+  "name": "BetaBot",
   "version": "1.0.0",
-  "description": "bot whatsapp lewat hp doang",
+  "description": "bot by: Imam Syahfa.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bintang73/botst4rz.git"
+    "url": "git+https://github.com/imamsyahfa2005/botis"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Imam Syahfa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bintang73/botst4rz/issues"
+    "url": "https://github.com/imamsyahfa2005/botis/issues"
   },
-  "homepage": "https://github.com/Bintang73/botst4rz#readme"
+  "homepage": "https://github.com/imamsyahfa2005/botis#readme"
 }
