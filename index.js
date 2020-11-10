@@ -48,7 +48,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] Scan kode qr mu cok!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] BUKA WHATSAPP WEB MU, LALU SCAN!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -67,7 +67,7 @@ conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @bintang_nur_pradana`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => BOT BY: IMAM SYAHFA`)
 })
 
 conn.on('message-new', async(m) =>
